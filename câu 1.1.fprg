@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="bai thu hanh 1"/>
+        <attribute name="authors" value="Admin"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-27 08:10:02 AM"/>
+        <attribute name="created" value="QWRtaW47QURNSU4tUEM7MjAyNC0wOS0yNzswODowNDowOSBBTTsyMzE4"/>
+        <attribute name="edited" value="QWRtaW47QURNSU4tUEM7MjAyNC0wOS0yNzswODoxMDowMiBBTTsxOzI0MTY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;sinh vien ngo xuan hieu&quot;" newline="True"/>
+            <output expression="&quot;msv 235752021610001&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
